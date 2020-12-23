@@ -10290,10 +10290,10 @@ react-app-polyfill@^1.0.6:
     regenerator-runtime "^0.13.3"
     whatwg-fetch "^3.0.0"
 
-react-bones@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/react-bones/-/react-bones-0.0.3.tgz#ae1e2fa5a9c6bb840a3166add46005b79395607e"
-  integrity sha512-4IT03YTSw7n+B0xy7YnUsIcRLRcxG5y+JH6uw/Oav3SIivJa1/xDJmefWXBql1hMr+baCYSu7Pt6HNVGPwA+dQ==
+react-bones@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/react-bones/-/react-bones-1.0.2.tgz#0fcdbff46f7a49de0223033cfa072a0a73e15e43"
+  integrity sha512-YzsvIZvq8+nxSmJvOuLJksT49bN1eR9IlbcR6yBMKESnj8FhOEzv+/lSEuN19dNNocpOk2Mm8fr0rFhxOnjd7Q==
   dependencies:
     react "16.13.1"
     react-dom "16.13.1"
